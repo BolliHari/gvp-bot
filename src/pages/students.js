@@ -1,5 +1,5 @@
 const students = [
-{
+  {
     rollNo: "5221421001",
     name: "GODAVARTHY SRI RANGA PADMAVATHI",
     year: "4th",
@@ -623,7 +623,7 @@ const students = [
   {
     rollNo: "5231421001",
     name: "ADDANKI NAGA SRAVANI",
-    year: "2nd",
+    year: "3rd",
     stream: "ECE B.Tech",
     backlogs: "None",
     cgpa: "8.61",
@@ -632,7 +632,7 @@ const students = [
   {
     rollNo: "5231421002",
     name: "AKETI NIKHIL",
-    year: "2nd",
+    year: "3rd",
     stream: "ECE B.Tech",
     backlogs: "None",
     cgpa: "7.79",
@@ -641,7 +641,7 @@ const students = [
   {
     rollNo: "5231421003",
     name: "AKULA SAI LOKESH",
-    year: "2nd",
+    year: "3rd",
     stream: "ECE B.Tech",
     backlogs: "None",
     cgpa: "7.76",
@@ -650,7 +650,7 @@ const students = [
   {
     rollNo: "5231421004",
     name: "ALLU HARSHITHA",
-    year: "2nd",
+    year: "3rd",
     stream: "ECE B.Tech",
     backlogs: "None",
     cgpa: "8.57",
@@ -659,7 +659,7 @@ const students = [
   {
     rollNo: "5231421005",
     name: "AMBATI MANIKANTA",
-    year: "2nd",
+    year: "3rd",
     stream: "ECE B.Tech",
     backlogs: "P&S, EMTL, AC, STLD, SS, DF",
     cgpa: "0.00",
@@ -668,7 +668,7 @@ const students = [
   {
     rollNo: "5231421006",
     name: "ARADHI SUPRIYA",
-    year: "2nd",
+    year: "3rd",
     stream: "ECE B.Tech",
     backlogs: "None",
     cgpa: "9.02",
@@ -677,7 +677,7 @@ const students = [
   {
     rollNo: "5231421007",
     name: "ARI LAKSHMI PRASANNA",
-    year: "2nd",
+    year: "3rd",
     stream: "ECE B.Tech",
     backlogs: "None",
     cgpa: "8.39",
@@ -686,7 +686,7 @@ const students = [
   {
     rollNo: "5231421008",
     name: "ARIKATLA CHANDRA SEKHAR",
-    year: "2nd",
+    year: "3rd",
     stream: "ECE B.Tech",
     backlogs: "P&S, EMTL, AC, STLD, SS, DF",
     cgpa: "0.00",
@@ -695,7 +695,7 @@ const students = [
   {
     rollNo: "5231421009",
     name: "BADDI RAJESH",
-    year: "2nd",
+    year: "3rd",
     stream: "ECE B.Tech",
     backlogs: "P&S, EMTL, AC, STLD, SS, DF",
     cgpa: "0.00",
@@ -704,7 +704,7 @@ const students = [
   {
     rollNo: "5231421010",
     name: "BAGADI JAYA SREE",
-    year: "2nd",
+    year: "3rd",
     stream: "ECE B.Tech",
     backlogs: "None",
     cgpa: "8.48",
@@ -713,7 +713,7 @@ const students = [
   {
     rollNo: "5231421011",
     name: "BALA SANYASI NAIDU",
-    year: "2nd",
+    year: "3rd",
     stream: "ECE B.Tech",
     backlogs: "P&S, EMTL, STLD, SS",
     cgpa: "0.00",
@@ -722,7 +722,7 @@ const students = [
   {
     rollNo: "5231421012",
     name: "BANDARU DILEEP KUMAR",
-    year: "2nd",
+    year: "3rd",
     stream: "ECE B.Tech",
     backlogs: "None",
     cgpa: "8.14",
@@ -731,7 +731,7 @@ const students = [
   {
     rollNo: "5231421013",
     name: "BARatam Kamala",
-    year: "2nd",
+    year: "3rd",
     stream: "ECE B.Tech",
     backlogs: "None",
     cgpa: "8.86",
@@ -740,7 +740,7 @@ const students = [
   {
     rollNo: "5231421014",
     name: "BEHARA SRI RAM",
-    year: "2nd",
+    year: "3rd",
     stream: "ECE B.Tech",
     backlogs: "EMTL, AC, STLD",
     cgpa: "0.00",
@@ -749,7 +749,7 @@ const students = [
   {
     rollNo: "5231421015",
     name: "BHAVANASI HEMANTH KUMAR",
-    year: "2nd",
+    year: "3rd",
     stream: "ECE B.Tech",
     backlogs: "EMTL, AC, STLD, SS",
     cgpa: "0.00",
@@ -758,7 +758,7 @@ const students = [
   {
     rollNo: "5231421016",
     name: "BHIMAVARAPU HARSHINI",
-    year: "2nd",
+    year: "3rd",
     stream: "ECE B.Tech",
     backlogs: "None",
     cgpa: "8.32",
@@ -767,7 +767,7 @@ const students = [
   {
     rollNo: "5231421017",
     name: "BODDETI CHAKRADHAR",
-    year: "2nd",
+    year: "3rd",
     stream: "ECE B.Tech",
     backlogs: "None",
     cgpa: "8.66",
@@ -776,7 +776,7 @@ const students = [
   {
     rollNo: "5231421018",
     name: "BONDA VENKATA KRISHNA",
-    year: "2nd",
+    year: "3rd",
     stream: "ECE B.Tech",
     backlogs: "None",
     cgpa: "8.63",
@@ -785,7 +785,7 @@ const students = [
   {
     rollNo: "5231421019",
     name: "BUKYA LOKESH",
-    year: "2nd",
+    year: "3rd",
     stream: "ECE B.Tech",
     backlogs: "P&S, EMTL, AC, STLD, SS, DF",
     cgpa: "0.00",
@@ -794,7 +794,7 @@ const students = [
   {
     rollNo: "5231421020",
     name: "BURRA LAKSHMI PRASAD",
-    year: "2nd",
+    year: "3rd",
     stream: "ECE B.Tech",
     backlogs: "AC, STLD, SS",
     cgpa: "0.00",
@@ -803,7 +803,7 @@ const students = [
   {
     rollNo: "5231421021",
     name: "CHAPPIDI ANIL",
-    year: "2nd",
+    year: "3rd",
     stream: "ECE B.Tech",
     backlogs: "P&S, EMTL, AC, STLD, SS, DF",
     cgpa: "0.00",
@@ -812,7 +812,7 @@ const students = [
   {
     rollNo: "5231421022",
     name: "CHEKKA SAI BHARGAV",
-    year: "2nd",
+    year: "3rd",
     stream: "ECE B.Tech",
     backlogs: "P&S, EMTL, AC, STLD, SS",
     cgpa: "0.00",
@@ -821,7 +821,7 @@ const students = [
   {
     rollNo: "5231421023",
     name: "CHINTA VAMSI",
-    year: "2nd",
+    year: "3rd",
     stream: "ECE B.Tech",
     backlogs: "AC",
     cgpa: "0.00",
@@ -830,7 +830,7 @@ const students = [
   {
     rollNo: "5231421024",
     name: "CHODAVARAPU TEJASWINI",
-    year: "2nd",
+    year: "3rd",
     stream: "ECE B.Tech",
     backlogs: "None",
     cgpa: "8.48",
@@ -839,7 +839,7 @@ const students = [
   {
     rollNo: "5231421025",
     name: "DADISETTI LOKESH",
-    year: "2nd",
+    year: "3rd",
     stream: "ECE B.Tech",
     backlogs: "EMTL, AC, STLD, SS, DF",
     cgpa: "0.00",
@@ -848,7 +848,7 @@ const students = [
   {
     rollNo: "5231421026",
     name: "DASARI NIKHIL KUMAR",
-    year: "2nd",
+    year: "3rd",
     stream: "ECE B.Tech",
     backlogs: "None",
     cgpa: "7.74",
@@ -857,7 +857,7 @@ const students = [
   {
     rollNo: "5231421027",
     name: "DATTA SAI VARDHAN",
-    year: "2nd",
+    year: "3rd",
     stream: "ECE B.Tech",
     backlogs: "P&S, EMTL, AC, STLD, SS",
     cgpa: "0.00",
@@ -866,7 +866,7 @@ const students = [
   {
     rollNo: "5231421028",
     name: "DHAVALA VENKATA SAI",
-    year: "2nd",
+    year: "3rd",
     stream: "ECE B.Tech",
     backlogs: "EMTL, AC, STLD, SS",
     cgpa: "0.00",
@@ -875,7 +875,7 @@ const students = [
   {
     rollNo: "5231421029",
     name: "DOKALA SRI CHARAN",
-    year: "2nd",
+    year: "3rd",
     stream: "ECE B.Tech",
     backlogs: "P&S, EMTL, AC, STLD, SS",
     cgpa: "0.00",
@@ -884,7 +884,7 @@ const students = [
   {
     rollNo: "5231421030",
     name: "DONDAPATI ESWAR",
-    year: "2nd",
+    year: "3rd",
     stream: "ECE B.Tech",
     backlogs: "P&S, EMTL, AC, STLD, SS",
     cgpa: "0.00",
@@ -893,7 +893,7 @@ const students = [
   {
     rollNo: "5231421031",
     name: "DONGA RISHITHA",
-    year: "2nd",
+    year: "3rd",
     stream: "ECE B.Tech",
     backlogs: "None",
     cgpa: "8.34",
@@ -902,7 +902,7 @@ const students = [
   {
     rollNo: "5231421032",
     name: "ESLAVATHU THARUN",
-    year: "2nd",
+    year: "3rd",
     stream: "ECE B.Tech",
     backlogs: "P&S, EMTL, AC, STLD, SS, DF",
     cgpa: "0.00",
@@ -911,7 +911,7 @@ const students = [
   {
     rollNo: "5231421033",
     name: "GADUTHURI SAI BHARGAV",
-    year: "2nd",
+    year: "3rd",
     stream: "ECE B.Tech",
     backlogs: "EMTL, AC",
     cgpa: "0.00",
@@ -920,7 +920,7 @@ const students = [
   {
     rollNo: "5231421034",
     name: "GANTA SAI",
-    year: "2nd",
+    year: "3rd",
     stream: "ECE B.Tech",
     backlogs: "None",
     cgpa: "7.93",
@@ -929,7 +929,7 @@ const students = [
   {
     rollNo: "5231421035",
     name: "GEDELA SAI RAM",
-    year: "2nd",
+    year: "3rd",
     stream: "ECE B.Tech",
     backlogs: "P&S, EMTL, AC, STLD, SS, DF",
     cgpa: "0.00",
@@ -938,7 +938,7 @@ const students = [
   {
     rollNo: "5231421036",
     name: "GOKEDA SAI",
-    year: "2nd",
+    year: "3rd",
     stream: "ECE B.Tech",
     backlogs: "EMTL",
     cgpa: "0.00",
@@ -947,7 +947,7 @@ const students = [
   {
     rollNo: "5231421061",
     name: "KURMAPU HEMA SUNDHAR",
-    year: "2nd",
+    year: "3rd",
     stream: "ECE B.Tech",
     backlogs: "None",
     cgpa: "8.34",
@@ -956,7 +956,7 @@ const students = [
   {
     rollNo: "5231421062",
     name: "MAHARANA GAYATHRI",
-    year: "2nd",
+    year: "3rd",
     stream: "ECE B.Tech",
     backlogs: "None",
     cgpa: "8.86",
@@ -965,7 +965,7 @@ const students = [
   {
     rollNo: "5231421063",
     name: "MANDALA MOUNICA",
-    year: "2nd",
+    year: "3rd",
     stream: "ECE B.Tech",
     backlogs: "None",
     cgpa: "8.24",
@@ -974,7 +974,7 @@ const students = [
   {
     rollNo: "5231421064",
     name: "MEDICHARLA SRIJA",
-    year: "2nd",
+    year: "3rd",
     stream: "ECE B.Tech",
     backlogs: "None",
     cgpa: "8.14",
@@ -983,7 +983,7 @@ const students = [
   {
     rollNo: "5231421065",
     name: "MEESALA NAVEEN",
-    year: "2nd",
+    year: "3rd",
     stream: "ECE B.Tech",
     backlogs: "STLD",
     cgpa: "0.00",
@@ -992,7 +992,7 @@ const students = [
   {
     rollNo: "5231421066",
     name: "MOHAMMADNOWMAN",
-    year: "2nd",
+    year: "3rd",
     stream: "ECE B.Tech",
     backlogs: "AC, STLD",
     cgpa: "0.00",
@@ -1001,7 +1001,7 @@ const students = [
   {
     rollNo: "5231421067",
     name: "MUDIDANA ROHITH",
-    year: "2nd",
+    year: "3rd",
     stream: "ECE B.Tech",
     backlogs: "P&S, EMTL, AC, STLD, SS",
     cgpa: "0.00",
@@ -1010,7 +1010,7 @@ const students = [
   {
     rollNo: "5231421068",
     name: "MUNAGAVALASA GURU",
-    year: "2nd",
+    year: "3rd",
     stream: "ECE B.Tech",
     backlogs: "EMTL, AC, STLD, SS",
     cgpa: "0.00",
@@ -1019,7 +1019,7 @@ const students = [
   {
     rollNo: "5231421069",
     name: "MUPPIDI SAI CHARAN",
-    year: "2nd",
+    year: "3rd",
     stream: "ECE B.Tech",
     backlogs: "None",
     cgpa: "7.76",
@@ -1028,7 +1028,7 @@ const students = [
   {
     rollNo: "5231421070",
     name: "NADIMPALLI BHARGAV",
-    year: "2nd",
+    year: "3rd",
     stream: "ECE B.Tech",
     backlogs: "None",
     cgpa: "8.34",
@@ -1037,7 +1037,7 @@ const students = [
   {
     rollNo: "5231421071",
     name: "NAGIREDDI ROHITH",
-    year: "2nd",
+    year: "3rd",
     stream: "ECE B.Tech",
     backlogs: "None",
     cgpa: "8.39",
@@ -1046,7 +1046,7 @@ const students = [
   {
     rollNo: "5231421072",
     name: "NAKKA DURGA PRASAD",
-    year: "2nd",
+    year: "3rd",
     stream: "ECE B.Tech",
     backlogs: "P&S, EMTL, AC, STLD, SS, DF",
     cgpa: "0.00",
@@ -1055,7 +1055,7 @@ const students = [
   {
     rollNo: "5231421073",
     name: "NEELAM DINESH",
-    year: "2nd",
+    year: "3rd",
     stream: "ECE B.Tech",
     backlogs: "AC",
     cgpa: "0.00",
@@ -1064,7 +1064,7 @@ const students = [
   {
     rollNo: "5231421074",
     name: "PAGADALA ANIL",
-    year: "2nd",
+    year: "3rd",
     stream: "ECE B.Tech",
     backlogs: "None",
     cgpa: "8.17",
@@ -1073,7 +1073,7 @@ const students = [
   {
     rollNo: "5231421075",
     name: "PALAKA NIKHIL",
-    year: "2nd",
+    year: "3rd",
     stream: "ECE B.Tech",
     backlogs: "None",
     cgpa: "7.41",
@@ -1082,7 +1082,7 @@ const students = [
   {
     rollNo: "5231421076",
     name: "PANASA MOHAN",
-    year: "2nd",
+    year: "3rd",
     stream: "ECE B.Tech",
     backlogs: "P&S, EMTL, AC, STLD, SS",
     cgpa: "0.00",
@@ -1091,7 +1091,7 @@ const students = [
   {
     rollNo: "5231421077",
     name: "PANDI MANIKANTA",
-    year: "2nd",
+    year: "3rd",
     stream: "ECE B.Tech",
     backlogs: "None",
     cgpa: "8.37",
@@ -1100,7 +1100,7 @@ const students = [
   {
     rollNo: "5231421078",
     name: "PANTHAM LOKESH",
-    year: "2nd",
+    year: "3rd",
     stream: "ECE B.Tech",
     backlogs: "None",
     cgpa: "8.28",
@@ -1109,7 +1109,7 @@ const students = [
   {
     rollNo: "5231421079",
     name: "PARISE ANIL KUMAR",
-    year: "2nd",
+    year: "3rd",
     stream: "ECE B.Tech",
     backlogs: "P&S, EMTL, AC, STLD, SS",
     cgpa: "0.00",
@@ -1118,7 +1118,7 @@ const students = [
   {
     rollNo: "5231421080",
     name: "PEDAPUDI AKHIL",
-    year: "2nd",
+    year: "3rd",
     stream: "ECE B.Tech",
     backlogs: "EMTL, AC, STLD, SS",
     cgpa: "0.00",
@@ -1127,7 +1127,7 @@ const students = [
   {
     rollNo: "5231421081",
     name: "PEDDAKOTLA MANI",
-    year: "2nd",
+    year: "3rd",
     stream: "ECE B.Tech",
     backlogs: "P&S, EMTL, AC, STLD, SS, DF",
     cgpa: "0.00",
@@ -1136,7 +1136,7 @@ const students = [
   {
     rollNo: "5231421082",
     name: "PENUGONDA GAYATHRI",
-    year: "2nd",
+    year: "3rd",
     stream: "ECE B.Tech",
     backlogs: "None",
     cgpa: "8.07",
@@ -1145,7 +1145,7 @@ const students = [
   {
     rollNo: "5231421083",
     name: "PILLI JOSHNA",
-    year: "2nd",
+    year: "3rd",
     stream: "ECE B.Tech",
     backlogs: "None",
     cgpa: "8.72",
@@ -1154,7 +1154,7 @@ const students = [
   {
     rollNo: "5231421084",
     name: "PINNINTI CHANDRA",
-    year: "2nd",
+    year: "3rd",
     stream: "ECE B.Tech",
     backlogs: "None",
     cgpa: "8.55",
@@ -1163,7 +1163,7 @@ const students = [
   {
     rollNo: "5231421085",
     name: "PITHANI PRABHAS",
-    year: "2nd",
+    year: "3rd",
     stream: "ECE B.Tech",
     backlogs: "P&S, EMTL, AC, STLD, SS",
     cgpa: "0.00",
@@ -1172,7 +1172,7 @@ const students = [
   {
     rollNo: "5231421086",
     name: "POLAKI LEELA",
-    year: "2nd",
+    year: "3rd",
     stream: "ECE B.Tech",
     backlogs: "None",
     cgpa: "8.93",
@@ -1181,7 +1181,7 @@ const students = [
   {
     rollNo: "5231421087",
     name: "POTNURU GAYATHRI",
-    year: "2nd",
+    year: "3rd",
     stream: "ECE B.Tech",
     backlogs: "None",
     cgpa: "8.76",
@@ -1190,7 +1190,7 @@ const students = [
   {
     rollNo: "5231421088",
     name: "PUDI OM SAI",
-    year: "2nd",
+    year: "3rd",
     stream: "ECE B.Tech",
     backlogs: "EMTL, AC, STLD, SS",
     cgpa: "0.00",
@@ -1199,7 +1199,7 @@ const students = [
   {
     rollNo: "5231421089",
     name: "PUJARI SAI KUMAR",
-    year: "2nd",
+    year: "3rd",
     stream: "ECE B.Tech",
     backlogs: "P&S, EMTL, AC, STLD, SS",
     cgpa: "0.00",
@@ -1208,7 +1208,7 @@ const students = [
   {
     rollNo: "5231421090",
     name: "PUVVULA MANIKUMAR",
-    year: "2nd",
+    year: "3rd",
     stream: "ECE B.Tech",
     backlogs: "EMTL, AC, STLD, SS",
     cgpa: "0.00",
@@ -1217,7 +1217,7 @@ const students = [
   {
     rollNo: "5231421091",
     name: "SABBAVARAPU VAMSI",
-    year: "2nd",
+    year: "3rd",
     stream: "ECE B.Tech",
     backlogs: "None",
     cgpa: "7.72",
@@ -1226,7 +1226,7 @@ const students = [
   {
     rollNo: "5231421092",
     name: "SAKINALA SATHWIK",
-    year: "2nd",
+    year: "3rd",
     stream: "ECE B.Tech",
     backlogs: "None",
     cgpa: "8.63",
@@ -1235,7 +1235,7 @@ const students = [
   {
     rollNo: "5231421093",
     name: "SAMBANA HEMANTH",
-    year: "2nd",
+    year: "3rd",
     stream: "ECE B.Tech",
     backlogs: "None",
     cgpa: "8.32",
@@ -1244,7 +1244,7 @@ const students = [
   {
     rollNo: "5231421094",
     name: "SANABOYINA MOUNIKA",
-    year: "2nd",
+    year: "3rd",
     stream: "ECE B.Tech",
     backlogs: "None",
     cgpa: "7.79",
@@ -1253,7 +1253,7 @@ const students = [
   {
     rollNo: "5231421095",
     name: "SANAPATHI SAI",
-    year: "2nd",
+    year: "3rd",
     stream: "ECE B.Tech",
     backlogs: "None",
     cgpa: "8.21",
@@ -1262,7 +1262,7 @@ const students = [
   {
     rollNo: "5231421096",
     name: "SARAGADAM NAGA",
-    year: "2nd",
+    year: "3rd",
     stream: "ECE B.Tech",
     backlogs: "None",
     cgpa: "8.45",
@@ -1271,7 +1271,7 @@ const students = [
   {
     rollNo: "5241421001",
     name: "Aalla Sreehitha",
-    year: "1st",
+    year: "2nd",
     stream: "ECE B.Tech",
     backlogs: "None",
     cgpa: "9.68",
@@ -1279,7 +1279,7 @@ const students = [
   {
     rollNo: "5241421002",
     name: "Adari Lokesh",
-    year: "1st",
+    year: "2nd",
     stream: "ECE B.Tech",
     backlogs: "None",
     cgpa: "9.59",
@@ -1287,7 +1287,7 @@ const students = [
   {
     rollNo: "5241421003",
     name: "Addala Naga Venkata Pavan",
-    year: "1st",
+    year: "2nd",
     stream: "ECE B.Tech",
     backlogs: "None",
     cgpa: "9.52",
@@ -1295,7 +1295,7 @@ const students = [
   {
     rollNo: "5241421004",
     name: "Akula Sai Charan",
-    year: "1st",
+    year: "2nd",
     stream: "ECE B.Tech",
     backlogs: "Maths-II",
     cgpa: "0.00",
@@ -1303,7 +1303,7 @@ const students = [
   {
     rollNo: "5241421005",
     name: "Alajangi Gnanadeep",
-    year: "1st",
+    year: "2nd",
     stream: "ECE B.Tech",
     backlogs: "None",
     cgpa: "9.05",
@@ -1311,7 +1311,7 @@ const students = [
   {
     rollNo: "5241421006",
     name: "Alla Sai Ram",
-    year: "1st",
+    year: "2nd",
     stream: "ECE B.Tech",
     backlogs: "Eng, Maths-II, Phy, Chem, BEE, CP",
     cgpa: "0.00",
@@ -1319,7 +1319,7 @@ const students = [
   {
     rollNo: "5241421007",
     name: "Allu Rohith",
-    year: "1st",
+    year: "2nd",
     stream: "ECE B.Tech",
     backlogs: "Maths-II, Phy, Chem, BEE",
     cgpa: "0.00",
@@ -1327,7 +1327,7 @@ const students = [
   {
     rollNo: "5241421008",
     name: "Amballa Naga Venkata Manikanta",
-    year: "1st",
+    year: "2nd",
     stream: "ECE B.Tech",
     backlogs: "None",
     cgpa: "8.84",
@@ -1335,7 +1335,7 @@ const students = [
   {
     rollNo: "5241421009",
     name: "Anche Pavan Kumar",
-    year: "1st",
+    year: "2nd",
     stream: "ECE B.Tech",
     backlogs: "Maths-II, Phy, BEE",
     cgpa: "0.00",
@@ -1343,7 +1343,7 @@ const students = [
   {
     rollNo: "5241421010",
     name: "Anche Ramya",
-    year: "1st",
+    year: "2nd",
     stream: "ECE B.Tech",
     backlogs: "None",
     cgpa: "9.66",
@@ -1351,7 +1351,7 @@ const students = [
   {
     rollNo: "5241421011",
     name: "Arava Mounika",
-    year: "1st",
+    year: "2nd",
     stream: "ECE B.Tech",
     backlogs: "None",
     cgpa: "9.52",
@@ -1359,7 +1359,7 @@ const students = [
   {
     rollNo: "5241421012",
     name: "Arle Pragna Sree",
-    year: "1st",
+    year: "2nd",
     stream: "ECE B.Tech",
     backlogs: "None",
     cgpa: "9.32",
@@ -1367,7 +1367,7 @@ const students = [
   {
     rollNo: "5241421013",
     name: "Avvari Yasaswini",
-    year: "1st",
+    year: "2nd",
     stream: "ECE B.Tech",
     backlogs: "None",
     cgpa: "9.48",
@@ -1375,7 +1375,7 @@ const students = [
   {
     rollNo: "5241421014",
     name: "Balaga Yaswanth",
-    year: "1st",
+    year: "2nd",
     stream: "ECE B.Tech",
     backlogs: "None",
     cgpa: "9.41",
@@ -1383,7 +1383,7 @@ const students = [
   {
     rollNo: "5241421015",
     name: "Bammidi Hemanth",
-    year: "1st",
+    year: "2nd",
     stream: "ECE B.Tech",
     backlogs: "Eng, Maths-II, Phy, Chem, BEE, CP",
     cgpa: "0.00",
@@ -1391,7 +1391,7 @@ const students = [
   {
     rollNo: "5241421016",
     name: "Bandi Lokesh",
-    year: "1st",
+    year: "2nd",
     stream: "ECE B.Tech",
     backlogs: "Maths-II, Phy, Chem, BEE",
     cgpa: "0.00",
@@ -1399,7 +1399,7 @@ const students = [
   {
     rollNo: "5241421017",
     name: "Bayana Vamshi",
-    year: "1st",
+    year: "2nd",
     stream: "ECE B.Tech",
     backlogs: "None",
     cgpa: "9.43",
@@ -1407,7 +1407,7 @@ const students = [
   {
     rollNo: "5241421018",
     name: "Chelluri Joshna Sree",
-    year: "1st",
+    year: "2nd",
     stream: "ECE B.Tech",
     backlogs: "Eng, Maths-II, Phy, Chem, BEE, CP",
     cgpa: "0.00",
@@ -1415,7 +1415,7 @@ const students = [
   {
     rollNo: "5241421019",
     name: "Chilaka Poojitha",
-    year: "1st",
+    year: "2nd",
     stream: "ECE B.Tech",
     backlogs: "None",
     cgpa: "9.14",
@@ -1423,7 +1423,7 @@ const students = [
   {
     rollNo: "5241421020",
     name: "Chintada Koushik",
-    year: "1st",
+    year: "2nd",
     stream: "ECE B.Tech",
     backlogs: "None",
     cgpa: "9.66",
@@ -1431,7 +1431,7 @@ const students = [
   {
     rollNo: "5241421021",
     name: "Chitturi Sai Sri Ram",
-    year: "1st",
+    year: "2nd",
     stream: "ECE B.Tech",
     backlogs: "Maths-II",
     cgpa: "0.00",
@@ -1439,7 +1439,7 @@ const students = [
   {
     rollNo: "5241421022",
     name: "Dabbiru Thanvi",
-    year: "1st",
+    year: "2nd",
     stream: "ECE B.Tech",
     backlogs: "None",
     cgpa: "9.52",
@@ -1447,7 +1447,7 @@ const students = [
   {
     rollNo: "5241421023",
     name: "Dadi Sriram",
-    year: "1st",
+    year: "2nd",
     stream: "ECE B.Tech",
     backlogs: "Maths-II, Phy, Chem, BEE, CP",
     cgpa: "0.00",
@@ -1455,7 +1455,7 @@ const students = [
   {
     rollNo: "5241421024",
     name: "Duggi Hemanth Kumar Reddy",
-    year: "1st",
+    year: "2nd",
     stream: "ECE B.Tech",
     backlogs: "None",
     cgpa: "9.59",
@@ -1463,7 +1463,7 @@ const students = [
   {
     rollNo: "5241421025",
     name: "Gajulapalle Yaswanth Kumar Reddy",
-    year: "1st",
+    year: "2nd",
     stream: "ECE B.Tech",
     backlogs: "None",
     cgpa: "9.18",
@@ -1471,7 +1471,7 @@ const students = [
   {
     rollNo: "5241421026",
     name: "Gara Naga Venkata Durga Prasad",
-    year: "1st",
+    year: "2nd",
     stream: "ECE B.Tech",
     backlogs: "None",
     cgpa: "9.43",
@@ -1479,7 +1479,7 @@ const students = [
   {
     rollNo: "5241421027",
     name: "Gedela Rishitha",
-    year: "1st",
+    year: "2nd",
     stream: "ECE B.Tech",
     backlogs: "None",
     cgpa: "9.52",
@@ -1487,7 +1487,7 @@ const students = [
   {
     rollNo: "5241421028",
     name: "Gollu Keerthana",
-    year: "1st",
+    year: "2nd",
     stream: "ECE B.Tech",
     backlogs: "None",
     cgpa: "9.70",
@@ -1495,7 +1495,7 @@ const students = [
   {
     rollNo: "5241421029",
     name: "Gorli Manisha",
-    year: "1st",
+    year: "2nd",
     stream: "ECE B.Tech",
     backlogs: "None",
     cgpa: "9.66",
@@ -1503,7 +1503,7 @@ const students = [
   {
     rollNo: "5241421030",
     name: "Gudla Sravani",
-    year: "1st",
+    year: "2nd",
     stream: "ECE B.Tech",
     backlogs: "None",
     cgpa: "9.52",
