@@ -21,7 +21,7 @@ const timetable = [
                 { time: "12:00 PM - 12:50 PM", subjectCode: "ECEPC81", subjectName: "Digital System Design", faculty: "Mr. G. V. V. N. Rama Rao" },
                 { time: "12:50 PM - 1:40 PM", subjectCode: "Break", subjectName: "Lunch", faculty: "N/A" },
                 { time: "1:40 PM - 2:30 PM", subjectCode: "ECEMC81", subjectName: "Microcontroller", faculty: "Mrs. V. Sridevi" },
-                { time: "2:30 PM - 4:10 PM", subjectCode: "ECEL82", subjectName: "Digital System Design Lab", faculty: "Ms. T. P. Mounica" },
+                { time: "2:30 PM - 4:10 PM", subjectCode: "ECEL82", subjectName: "Intech", faculty: "Seniors" },
                 { time: "4:10 PM - 5:00 PM", subjectCode: "MOOCS", subjectName: "MOOCS", faculty: "N/A" },
             ],
         },
